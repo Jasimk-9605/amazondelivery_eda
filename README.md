@@ -1,7 +1,3 @@
-Here’s the exact text from your screenshot:
-
----
-
 ### **Overview**
 
 **amazondelivery_eda** is an analytical notebook that extracts and visualizes key insights from Amazon's delivery operations data. It helps teams understand agent demographics, order timing, and delivery durations, supporting data-driven decisions to optimize delivery efficiency and service quality.
